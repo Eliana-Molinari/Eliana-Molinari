@@ -32,6 +32,6 @@ Here are some ideas to get you started:
     <h1>Detail, ListMaps, AboutTeam, DetailTeam</h1>
     <img src="https://github.com/MendietaSergio/App-Clima-IBM-CAC/blob/main/assets/backgroundImages/capturas/Detail.jpeg?raw=true" alt="Detail" width="200"/>
     <img src="https://github.com/MendietaSergio/App-Clima-IBM-CAC/blob/main/assets/backgroundImages/capturas/ListMap.jpeg?raw=true" alt="ListMaps" width="200"/>
-    <img src="https://github.com/MendietaSergio/App-Clima-IBM-CAC/blob/main/assets/backgroundImages/capturas/AboutTeam.jpeg?raw=true" alt="AboutTeam" width="200"/>
+    <img src="https://github.com/Eliana-Molinari/App-Clima-IBM-CAC/blob/main/assets/backgroundImages/capturas/AboutTeam.jpeg?raw=true" alt="AboutTeam" width="200"/>
     <img src="https://github.com/MendietaSergio/App-Clima-IBM-CAC/blob/main/assets/backgroundImages/capturas/DetailTeam.jpeg?raw=true" alt="DetailTeam" width="200"/>
 </div>
