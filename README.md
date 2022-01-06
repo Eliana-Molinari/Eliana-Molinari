@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Front end and web design
 - 🤔 I’m looking for trainee jobs
  
- #  -- Capturas -- 
+ #  -- Some Work  -- 
  <div>
     <h1>Start, Home, Search, ListSave</h1>
     <img src="https://raw.githubusercontent.com/MendietaSergio/App-Clima-IBM-CAC/main/assets/backgroundImages/capturas/StartApp.jpeg" alt="Start" width="200"/>
