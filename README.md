@@ -15,7 +15,7 @@ Here are some ideas to get you started:
           
              
 
-About me :
+
 <img align="right" width="33%" src="https://github.com/Eliana-Molinari/Eliana-Molinari/blob/main/Compu.gif"> 
 I'm Eliana, I'm from Argentina.I study computer sistems analysis and web development. Currenly working in mobile proyects with Node and React and learning about frameworks like bootstrap,server-side programming languages php and javascript.
  Somethings that i've done (non developer work experience):
@@ -37,7 +37,7 @@ I'm Eliana, I'm from Argentina.I study computer sistems analysis and web develop
 - 🌱 I’m currently learning React Native
 - 👯 I’m looking to collaborate on Front end and web design
 - 🤔 I’m looking for a new professional challenge ⚡
-
+- ⚡ interests : video games 🕹️🎮  sci fi 🧛🏻‍♀️ music 🎧
 
  #  -- Screenshots -- 
  <div>
