@@ -10,18 +10,14 @@ Here are some ideas to get you started:
 
 
 -->
-        <div class="section-title">
+        <div >
           <h2>About</h2>
           <p>I'm Eliana, I'm from Argentina.I study computer sistems analysis and web development.
             Currenly working in mobile proyects with Node and React and learning about  frameworks like bootstrap,server-side programming languages php and javascript.
-          
-         
           </p>
-        </div>
+       
 
-        <div class="row">
-          <div class="col-lg-4" data-aos="fade-right">
-            <img src="assets/img/portfolio/profile-img.jpg" class="img-fluid" alt="">
+          <img src="assets/img/portfolio/profile-img.jpg" class="img-fluid" alt="">
           </div>
           <div class="col-lg-8 pt-4 pt-lg-0 content" data-aos="fade-left">
             <h3>UI/UX Designer &amp; Web Developer.</h3>
