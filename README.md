@@ -10,45 +10,21 @@ Here are some ideas to get you started:
 
 
 -->
-        <div >
-          <h2>About</h2>
-          I'm Eliana, I'm from Argentina.I study computer sistems analysis and web development.
-            Currenly working in mobile proyects with Node and React and learning about  frameworks like bootstrap,server-side programming languages php and javascript.
-          </div>
-          <div class="col-lg-8 pt-4 pt-lg-0 content" data-aos="fade-left">
-            <h3>UI/UX Designer &amp; Web Developer.</h3>
-            <p class="font-italic">
-               Web Developer - Front End -HTML - CSS -Javascript </p>
-            <div class="row">
-              <div class="col-lg-6">
-                <ul>  <li><i class="icofont-rounded-right"></i>Web design </li>
-                  <li><i class="icofont-rounded-right"></i>Programming</li> 
-                  <li><i class="icofont-rounded-right"></i>Spanish native speaker</li>
-                  <li><i class="icofont-rounded-right"></i>English advance </li> 
-                  
-              </div>
-              <div class="col-lg-6">
-                <ul>
-                <li><i class="icofont-rounded-right"></i>Customer Service experience</li>
-                  <li><i class="icofont-rounded-right"></i>Group coordination</li> 
-                  <li><i class="icofont-rounded-right"></i>Self-taught person </li>
-                  <li><i class="icofont-rounded-right"></i>Open to work: remote,re location</li>
-                </ul> 
-                </ul>
-              </div>
-            </div>
-            <p>
-              Somethings that i've done (non developer work experience):
-              I worked in two museums as content guide, where I had to study about a collection of artifacts and other objects of artistic, cultural, historical, or scientific importance.
-              I also study french and italian as well(beginner level).           
-            </p>
-          </div>
-        </div>
-
       
+         
+          
+             
 
 About me :
-- 💬 Ask me about https://www.instagram.com/eliana_nataliaa/
+ Somethings that i've done (non developer work experience):
+ I worked in two museums as content guide, where I had to study about a collection of artifacts and other objects of artistic, cultural, historical, or scientific importance.
+ I also study french and italian as well(beginner level).           
+  <div>
+    <img src="https://www.instagram.com/p/CNOiNR0hWH5/?utm_source=ig_web_copy_link" alt="Start" width="200"/>
+    
+
+      
+- 💬 Ask more  about me : https://www.instagram.com/eliana_nataliaa/
 - 📫 How to reach me: https://www.linkedin.com/in/elianamolinari/
 
 
