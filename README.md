@@ -20,7 +20,10 @@ I'm Eliana, I'm from Argentina.I study computer sistems analysis and web develop
  Somethings that i've done (non developer work experience):
  I worked in two museums as content guide, where I had to study about a collection of artifacts and other objects of artistic, cultural, historical, or scientific importance.
  I also study french and italian as well(beginner level).    
- ![me](https://github.com/Eliana-Molinari/Eliana-Molinari/blob/main/Compu.gif)
+
+ <p align="center" width="100%">
+    <img width="33%" src="https://github.com/Eliana-Molinari/Eliana-Molinari/blob/main/Compu.gif"> 
+</p>
 
 - 💬 Ask more  about me : https://www.instagram.com/eliana_nataliaa/
 - 📫 How to reach me: https://www.linkedin.com/in/elianamolinari/
