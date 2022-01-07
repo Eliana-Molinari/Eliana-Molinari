@@ -20,7 +20,7 @@ I'm Eliana, I'm from Argentina.I study computer sistems analysis and web develop
  Somethings that i've done (non developer work experience):
  I worked in two museums as content guide, where I had to study about a collection of artifacts and other objects of artistic, cultural, historical, or scientific importance.
  I also study french and italian as well(beginner level).    
-<div style="width:100%;height:0;padding-bottom:75%;position:relative;"><iframe src="https://giphy.com/embed/3oEjHWhZqLi0sgSILu" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/love-vaporwave-barbieeletrix-3oEjHWhZqLi0sgSILu">
+<img src="https://giphy.com/gifs/love-vaporwave-barbieeletrix-3oEjHWhZqLi0sgSILu"/>
       
 - 💬 Ask more  about me : https://www.instagram.com/eliana_nataliaa/
 - 📫 How to reach me: https://www.linkedin.com/in/elianamolinari/
