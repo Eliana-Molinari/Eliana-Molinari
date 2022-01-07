@@ -16,6 +16,7 @@ Here are some ideas to get you started:
              
 
 About me :
+I'm Eliana, I'm from Argentina.I study computer sistems analysis and web development. Currenly working in mobile proyects with Node and React and learning about frameworks like bootstrap,server-side programming languages php and javascript.
  Somethings that i've done (non developer work experience):
  I worked in two museums as content guide, where I had to study about a collection of artifacts and other objects of artistic, cultural, historical, or scientific importance.
  I also study french and italian as well(beginner level).           
