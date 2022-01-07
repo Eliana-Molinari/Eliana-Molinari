@@ -7,17 +7,20 @@ Here are some ideas to get you started:
 
 
 
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+
 -->
+About me :
+- 💬 Ask me about https://www.instagram.com/eliana_nataliaa/
+- 📫 How to reach me: https://www.linkedin.com/in/elianamolinari/
+
 
 - 🔭 I’m currently working on https://github.com/Eliana-Molinari/App-Clima-IBM-CAC
 - 🌱 I’m currently learning React Native
 - 👯 I’m looking to collaborate on Front end and web design
-- 🤔 I’m looking for trainee jobs
- 
+- 🤔 I’m looking for a new professional challenge ⚡
+
+
  #  -- Screenshots -- 
  <div>
     <h1>Start, Home, Search, ListSave</h1>
