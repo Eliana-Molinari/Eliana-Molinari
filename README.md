@@ -20,8 +20,8 @@ About me :
  I worked in two museums as content guide, where I had to study about a collection of artifacts and other objects of artistic, cultural, historical, or scientific importance.
  I also study french and italian as well(beginner level).           
   <div>
-    <img src="https://github.com/Eliana-Molinari/Portfolio/blob/main/assets/img/portfolio/profile-img.jpg" alt="Me" width="200"/>
       <img src="https://github.com/Eliana-Molinari/Portfolio/blob/main/assets/img/portfolio/profile-img.jpg.jpg" alt="Me" width="200"/>
+      <img src="https://github.com/Eliana-Molinari/Portfolio/blob/main/assets/img/portfolio/profile-img.jpg" alt="Me" width="200"/>
       <img src="https://github.com/Eliana-Molinari/Portfolio/blob/main/assets/img/portfolio/portfolio-2.jpg" alt="Me" width="200"/>
       <img src="https://github.com/Eliana-Molinari/Portfolio/blob/main/assets/img/portfolio/portfolio-3.jpg" alt="Me" width="200"/>
     
