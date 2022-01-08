@@ -34,7 +34,9 @@ I'm Eliana, I'm from Argentina.I study computer sistems analysis and web develop
 - 🌱 I’m currently learning React Native
 - 👯 I’m looking to collaborate on Front end and web design
 - 🤔 I’m looking for a new professional challenge ⚡
-- ⚡ interests : video games 🕹️🎮  sci fi 🧛🏻‍♀️ music 🎧
+- ⚡ interests : Video games 🕹️🎮 https://steamcommunity.com/id/lelubflowers/  🕹️🎮
+-   Sci fi 🧛🏻‍♀️ 
+-   Music 🎧 https://open.spotify.com/user/21a6ztaekd2gbffqowk43dzaq 🎧
 
  #  -- Screenshots -- 
  <div>
