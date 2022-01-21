@@ -30,7 +30,7 @@ I'm Eliana, I'm from Argentina.I study computer sistems analysis and web develop
 - 📫 How to reach me: https://www.linkedin.com/in/elianamolinari/
 
 
-- 🔭 I’m currently working on https://github.com/Eliana-Molinari/NetflixClon 🚀🚀
+- 🔭 I’m currently working on https://github.com/Eliana-Molinari/NetflixClon 🚀🚀 &   https://github.com/Eliana-Molinari/App-Clima-IBM-CAC 
 - 🌱 I’m currently learning React Native
 - 👯 I’m looking to collaborate on Front end and web design
 - 🤔 I’m looking for a new professional challenge ⚡
