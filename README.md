@@ -1,15 +1,6 @@
 ### Hi there 👋
 
-<!--
-**Eliana-Molinari/Eliana-Molinari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-
-
-
-
--->
       
          
           
@@ -17,16 +8,14 @@ Here are some ideas to get you started:
 
 
 <img align="right" width="33%" src="https://github.com/Eliana-Molinari/Eliana-Molinari/blob/main/Compu.gif"> 
-I'm Eliana, I'm from Argentina.I study computer sistems analysis and web development. Currenly working in mobile proyects.
+I'm Eliana, I'm from Argentina.I study computer sistems analysis and web development.
  
  
  
  
  
---
-
     
-- 💬 Ask more  about me : https://www.instagram.com/eliana_nataliaa/
+
 - 📫 How to reach me: https://www.linkedin.com/in/elianamolinari/
 
 
@@ -37,6 +26,7 @@ I'm Eliana, I'm from Argentina.I study computer sistems analysis and web develop
 - ⚡ interests : Video games 🕹️🎮 https://steamcommunity.com/id/lelubflowers/  🕹️🎮
 -   Sci fi 🧛🏻‍♀️ 
 -   Music 🎧 https://open.spotify.com/user/21a6ztaekd2gbffqowk43dzaq 🎧
+
 
  #  -- Screenshots -- 
  <div>
@@ -55,3 +45,5 @@ I'm Eliana, I'm from Argentina.I study computer sistems analysis and web develop
     <img src="https://github.com/Eliana-Molinari/App-Clima-IBM-CAC/blob/main/assets/backgroundImages/capturas/AboutTeam.jpeg?raw=true" alt="AboutTeam" width="200"/>
     <img src="https://github.com/Eliana-Molinari/App-Clima-IBM-CAC/blob/main/assets/DetailTeam.jpeg?raw=true" alt="DetailTeam" width="200"/>
 </div>
+
+ - 💬 Ask more  about me : https://www.instagram.com/eliana_nataliaa/
