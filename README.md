@@ -12,7 +12,7 @@ Hola Mundo! Soy Eliana, estudiante de analisis de Sistemas y desarrollo Web.
  
 - 🌱 Actualmente aprendiendo React js ⚡
 - 👯 Busco colaborar en Front end y web designs ⚡
-- 🤔 Buscando  challenges, trainee *primer empleo It ⚡
+- 🤔 Buscando  challenges, trainee  ⚡
 - ⚡ interests : Video games , Musica , Animacion y series 🕹️🎮 
  
  
