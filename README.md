@@ -27,7 +27,8 @@ I'm Eliana, student and Web developer.
     
 
 
-
-
-
+```diff
 - 📫 Linkedin : https://www.linkedin.com/in/elianamolinari/
+
+```
+
