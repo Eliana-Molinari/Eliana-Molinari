@@ -18,7 +18,7 @@ Hola Mundo! Soy Eliana, estudiante de analisis de Sistemas y desarrollo Web.
 <h3> Tecnologias con las que he trabajado:  </h3>
 <img src="https://github.com/Eliana-Molinari/Eliana-Molinari/blob/main/pngegg.png" width="200" > 
 <img  src="https://github.com/Eliana-Molinari/Eliana-Molinari/blob/main/kisspng-react-javascript-angularjs-ionic-atom-5b154be6947457.3471941815281223426081.png" width="200"> 
- <img  src="https://github.com/Eliana-Molinari/Eliana-Molinari/blob/main/node.png" width="200" > 
+
     
 
 
