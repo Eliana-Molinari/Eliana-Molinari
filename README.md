@@ -17,7 +17,7 @@ Hola Mundo! Soy Eliana, estudiante de analisis de Sistemas y desarrollo Web.
 - ⚡ interests : Video games , Musica , Animacion y series 🕹️🎮 
 
 ```diff
- Tecnologias con las que he trabajado: 
+ @@ Tecnologias con las que he trabajado: @@
 ```
   
 <img src="https://github.com/Eliana-Molinari/Eliana-Molinari/blob/main/pngegg.png" width="200" > 
