@@ -16,11 +16,11 @@
  
  ### You can find me 🌎:
 
-```diff
+
   [LinkedIn] (https://www.linkedin.com/in/elianamolinari/ “My Linkedin Profile ”)
 
  
- ```
+
 
 
 ```diff
