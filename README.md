@@ -9,7 +9,7 @@
 
 
 <img align="right" width="33%" src="https://github.com/Eliana-Molinari/Eliana-Molinari/blob/main/Compu.gif"> 
-## I'm Eliana, Frontend Developer, Full Stack Developer in process #
+##I'm Eliana, Frontend Developer, Full Stack Developer in process 
  
 - 🌱 Learning Node and React.  ⚡
 - 👯 Front end y web designs colaborations⚡
