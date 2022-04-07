@@ -12,8 +12,7 @@
 - 🤔Looking for  challenges, practice and trainee jobs⚡
 - 🌱 Learning Backend  ⚡
 - ⚡ interests : Video games , Music , Animation y series 🕹️🎮 
-- For Work  or collaborations [LinkedIn] (https://www.linkedin.com/in/elianamolinari/)
-- I love connecting with different people so if you want to say hi, I'll be happy to meet you✨
+
 
  
  
@@ -31,9 +30,9 @@
 
 
 ```diff
-
-
- [Instagram]  (https://www.instagram.com/eliana_nataliaa)
+ - For Work  or collaborations [LinkedIn] (https://www.linkedin.com/in/elianamolinari/)
+ - I love connecting with different people so if you want to say hi, I'll be happy to meet you✨
+   Instagram]  (https://www.instagram.com/eliana_nataliaa)
  
  ```
 
