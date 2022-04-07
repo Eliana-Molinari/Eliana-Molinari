@@ -14,21 +14,7 @@
 - ⚡ interests : Video games , Music , Animation y series 🕹️🎮 
 - I love connecting with different people so if you want to say hi, I'll be happy to meet you✨
  
- ### You can find me 🌎:
-
-
-  [LinkedIn] (https://www.linkedin.com/in/elianamolinari/ “My Linkedin Profile ”)
-
  
-
-
-
-```diff
-Instagram [https://www.instagram.com/eliana_nataliaa/ “My Instagram Profile ”] 
- 
- ```
-
-
 ```diff
 @@ Currently working with: @@
 ```
@@ -38,6 +24,19 @@ Instagram [https://www.instagram.com/eliana_nataliaa/ “My Instagram Profile �
 <img  src="https://github.com/Eliana-Molinari/Eliana-Molinari/blob/main/kisspng-react-javascript-angularjs-ionic-atom-5b154be6947457.3471941815281223426081.png" width="200"> 
 
 
+
+### You can find me 🌎:
+
+- For Work [LinkedIn] (https://www.linkedin.com/in/elianamolinari/ “My Linkedin Profile ”)
+
+ 
+
+
+
+```diff
+- Instagram [https://www.instagram.com/eliana_nataliaa/ “My Instagram Profile ”] 
+ 
+ ```
 
 
 
