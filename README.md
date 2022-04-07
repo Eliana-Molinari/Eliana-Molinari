@@ -27,14 +27,15 @@
 
 ### You can find me 🌎:
 
-- For Work [LinkedIn] (https://www.linkedin.com/in/elianamolinari/ “My Linkedin Profile ”)
+
+```diff
+- For Work  or collaborations [LinkedIn] (https://www.linkedin.com/in/elianamolinari/ “My Linkedin Profile ”)
 
  
 
 
 
-```diff
- Instagram [https://www.instagram.com/eliana_nataliaa/ “My Instagram Profile ”] 
+ + Instagram  [https://www.instagram.com/eliana_nataliaa/ “My Instagram personal Profile ”] 
  
  ```
 
