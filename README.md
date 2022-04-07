@@ -1,6 +1,6 @@
 
 ## I'm Eliana, Frontend Developer, Full Stack Developer in process 
-[![Eliana](https://cdn.pixabay.com/photo/2017/06/16/07/26/under-construction-2408062_960_720.png "We're working on our new Github profile. Stay tuned.")](https://your-website)
+
 
 <img align="center" src="https://github.com/Eliana-Molinari/Eliana-Molinari/blob/main/your_cool_intro.gif">     
           
