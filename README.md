@@ -15,6 +15,25 @@
 - I love connecting with different people so if you want to say hi, I'll be happy to meet you✨
  
  ### You can find me 🌎:
+<p align="center">
+
+ <a href="https://jlferrete.com" target="blank">
+
+  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/firefox.svg" alt="jlferrete" height="24px" width="24px" />
+
+ </a>
+
+ <a href="https://twitter.com/jlferrete" target="blank">
+
+  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="jlferrete" height="24px" width="24px" />
+
+ </a>
+
+ <a href="https://twitter.com/jlferrete" target="blank">
+
+  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="jlferrete" height="24px" width="24px" />
+
+ </a>
 
 ```diff
  LinkedIn [ https://www.linkedin.com/in/elianamolinari/ “My Linkedin Profile ”]
