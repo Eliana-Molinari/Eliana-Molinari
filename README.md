@@ -16,7 +16,7 @@
 - 👯 Front end y web designs colaborations⚡
 - 🤔Looking for  challenges, practice and trainee jobs⚡
 - ⚡ interests : Video games , Music , Animation y series 🕹️🎮 
-- I love connecting with different people so if you want to say hi, I'll be happy to meet you ✨
+- I love connecting with different people so if you want to say hi, I'll be happy to meet you✨
 
 ```diff
 +You can find me 🌎:
