@@ -5,9 +5,9 @@
  
 
 - 👯 Front-end y web designs colaborations⚡
-- 🤔Looking for  challenges, practice and on-site/remote jobs⚡
-- 🌱 Learning Back-end  ⚡
-- ⚡ Interests: Video games , Music , Animation y series 🕹️🎮 
+- 🤔 Looking for challenges, practice and on-site/remote jobs⚡
+- 🌱 Learning Back-end ⚡
+- ⚡ Interests: Video games, Music, Animation y series 🕹️🎮 
 - From Argentina 🇦🇷
 
 
