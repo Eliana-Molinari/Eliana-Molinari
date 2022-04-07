@@ -7,7 +7,8 @@
 - 👯 Front end y web designs colaborations⚡
 - 🤔Looking for  challenges, practice and trainee jobs⚡
 - 🌱 Learning Backend  ⚡
-- ⚡ interests : Video games , Music , Animation y series 🕹️🎮 
+- ⚡ Interests : Video games , Music , Animation y series 🕹️🎮 
+- From Argentina 🇦🇷
 
 
  
