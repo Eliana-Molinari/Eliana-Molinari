@@ -9,7 +9,7 @@
 
 
 <img align="right" width="33%" src="https://github.com/Eliana-Molinari/Eliana-Molinari/blob/main/Compu.gif"> 
-I'm Eliana, student and web developer. 
+I'm Eliana, Frontend Developer, Full Stack Developer in process
  
 - 🌱 Learning Node and React.  ⚡
 - 👯 Front end y web designs colaborations⚡
@@ -24,7 +24,11 @@ I'm Eliana, student and web developer.
 <img src="https://github.com/Eliana-Molinari/Eliana-Molinari/blob/main/pngegg.png" width="200" > 
 <img  src="https://github.com/Eliana-Molinari/Eliana-Molinari/blob/main/kisspng-react-javascript-angularjs-ionic-atom-5b154be6947457.3471941815281223426081.png" width="200"> 
 
-  [ https://www.linkedin.com/in/elianamolinari/ “My Linkedin Profile ”]
+-You can find me 🌎:
+
+LinkedIn [ https://www.linkedin.com/in/elianamolinari/ “My Linkedin Profile ”]
+
+  
 
 
 
