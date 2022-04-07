@@ -28,6 +28,9 @@ I'm Eliana, Frontend Developer, Full Stack Developer in process
 
 LinkedIn [ https://www.linkedin.com/in/elianamolinari/ “My Linkedin Profile ”]
 
+I love connecting with different people so if you want to say hi, I'll be happy to meet you 
+Steam 
+Instagram 
   
 
 
