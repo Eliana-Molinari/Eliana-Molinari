@@ -29,13 +29,9 @@
 
 
 ```diff
-- For Work  or collaborations [LinkedIn] (https://www.linkedin.com/in/elianamolinari/ “My Linkedin Profile ”)
+- For Work  or collaborations [LinkedIn] (https://www.linkedin.com/in/elianamolinari/)
 
- 
-
-
-
- + Instagram  [https://www.instagram.com/eliana_nataliaa/ “My Instagram personal Profile ”] 
+ + Instagram  [https://www.instagram.com/eliana_nataliaa/] 
  
  ```
 
