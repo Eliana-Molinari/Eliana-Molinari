@@ -1,13 +1,13 @@
-## I'm Eliana, Frontend Developer, Full Stack Developer in process 👩‍💻
+## I'm Eliana, Front-end Developer, Full Stack Developer in process 👩‍💻
       
 <img align="right" width="30%" src="https://github.com/Eliana-Molinari/Eliana-Molinari/blob/main/Compu.gif"> 
 
  
 
-- 👯 Front end y web designs colaborations⚡
-- 🤔Looking for  challenges, practice and trainee jobs⚡
-- 🌱 Learning Backend  ⚡
-- ⚡ Interests : Video games , Music , Animation y series 🕹️🎮 
+- 👯 Front-end y web designs colaborations⚡
+- 🤔Looking for  challenges, practice and on-site/remote jobs⚡
+- 🌱 Learning Back-end  ⚡
+- ⚡ Interests: Video games , Music , Animation y series 🕹️🎮 
 - From Argentina 🇦🇷
 
 
@@ -29,7 +29,7 @@
 ```diff
  - For Work  or collaborations [LinkedIn] (https://www.linkedin.com/in/elianamolinari/)
  - I love connecting with different people so if you want to say hi, I'll be happy to meet you✨
-   Instagram]  (https://www.instagram.com/eliana_nataliaa)
+   [Instagram]  (https://www.instagram.com/eliana_nataliaa)
  
  ```
 
