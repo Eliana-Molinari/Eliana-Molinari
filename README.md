@@ -1,4 +1,4 @@
-I'm Eliana, Frontend Developer, Full Stack Developer in process 👩‍💻
+##I'm Eliana, Frontend Developer, Full Stack Developer in process 👩‍💻
       
 <img align="right" width="30%" src="https://github.com/Eliana-Molinari/Eliana-Molinari/blob/main/Compu.gif"> 
 
