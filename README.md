@@ -9,7 +9,7 @@
 
 
 <img align="right" width="33%" src="https://github.com/Eliana-Molinari/Eliana-Molinari/blob/main/Compu.gif"> 
-I'm Eliana, student and Web developer. 
+I'm Eliana, student and web developer. 
  
 - 🌱 Learning Node and React.  ⚡
 - 👯 Front end y web designs colaborations⚡
@@ -17,7 +17,7 @@ I'm Eliana, student and Web developer.
 - ⚡ interests : Video games , Music , Animation y series 🕹️🎮 
 
 ```diff
-@@ Tecnologias con las que he trabajado @@
+@@ Currently working with: @@
 ```
 
   
