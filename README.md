@@ -13,14 +13,21 @@
 - 🌱 Learning Backend  ⚡
 - ⚡ interests : Video games , Music , Animation y series 🕹️🎮 
 - I love connecting with different people so if you want to say hi, I'll be happy to meet you✨
+ 
+ ### You can find me 🌎:
 
 ```diff
- You can find me 🌎:
+ LinkedIn [ https://www.linkedin.com/in/elianamolinari/ “My Linkedin Profile ”]
 
-✔️ LinkedIn [ https://www.linkedin.com/in/elianamolinari/ “My Linkedin Profile ”]
-✔️ Instagram [https://www.instagram.com/eliana_nataliaa/ “My Instagram Profile ”] 
  
-```
+ ```
+
+
+```diff
+Instagram [https://www.instagram.com/eliana_nataliaa/ “My Instagram Profile ”] 
+ 
+ ```
+
 
 ```diff
 @@ Currently working with: @@
