@@ -16,12 +16,13 @@ I'm Eliana, Frontend Developer, Full Stack Developer in process
 - 🤔Looking for  challenges, practice and trainee jobs⚡
 - ⚡ interests : Video games , Music , Animation y series 🕹️🎮 
 
+```diff
 -You can find me 🌎:
 
 ✔️ LinkedIn [ https://www.linkedin.com/in/elianamolinari/ “My Linkedin Profile ”]
 ✔️ Instagram [https://www.instagram.com/eliana_nataliaa/ “My Instagram Profile ”] 
  I love connecting with different people so if you want to say hi, I'll be happy to meet you ✨
- 
+ ```
 
 ```diff
 @@ Currently working with: @@
