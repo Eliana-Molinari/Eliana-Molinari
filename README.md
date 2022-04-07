@@ -33,7 +33,7 @@
 ```diff
 
 
- + Instagram  [https://www.instagram.com/eliana_nataliaa/] 
+ + [Instagram]  (https://www.instagram.com/eliana_nataliaa)
  
  ```
 
