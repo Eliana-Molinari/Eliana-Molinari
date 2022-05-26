@@ -25,7 +25,7 @@
 
 
  - For Work  or collaborations [LinkedIn] (https://www.linkedin.com/in/elianamolinari/)
-   - [Instagram]  ([https://www.instagram.com/eliana_nataliaa])
+   - [Instagram]  (https://www.instagram.com/decoronitas/)
    
 ```diff
 
