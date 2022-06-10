@@ -29,7 +29,7 @@
    
 ```diff
 
- I love connecting with people and review videogames/movies/series,so if you want to say hi, I'll be happy to meet you✨
+ I love review videogames/movies/series,so if you want to say hi, I'll be happy to meet you✨
  
  ```
 
